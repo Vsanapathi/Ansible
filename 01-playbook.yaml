@@ -1,0 +1,4 @@
+- name: ping palybook
+  hosts:
+  tasks:
+  

@@ -1,0 +1,6 @@
+- name: veera
+  dob: "01-10-1987"
+  address: 
+    addressline: sanathnagar
+    city: hyd
+    
